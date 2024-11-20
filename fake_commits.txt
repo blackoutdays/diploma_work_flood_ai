@@ -129,3 +129,4 @@ Commit number 13: Improve test coverage
 Commit number 14: Add user-friendly UI components
 Commit number 15: Add user-friendly UI components
 Commit number 16: Add user-friendly UI components
+Commit number 17: Update notification logic
