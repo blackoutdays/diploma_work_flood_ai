@@ -138,3 +138,4 @@ Commit number 22: Improve memory efficiency of model
 Commit number 23: Enhance error handling
 Commit number 24: Improve memory efficiency of model
 Commit number 25: Refactor ML model architecture
+Commit number 26: Refactor ML model architecture
