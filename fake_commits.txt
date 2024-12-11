@@ -124,3 +124,4 @@ Commit number 8: Update system requirements file
 Commit number 9: Refactor code for better readability
 Commit number 10: Update notification logic
 Commit number 11: Refactor code for better readability
+Commit number 12: Add example usage scripts
