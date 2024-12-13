@@ -145,3 +145,4 @@ Commit number 29: Enhance error handling
 Commit number 30: Fix bug in flood prediction algorithm
 Commit number 31: Fix bug in flood prediction algorithm
 Commit number 32: Refactor code for better readability
+Commit number 33: Update notification logic
