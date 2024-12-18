@@ -134,3 +134,4 @@ Commit number 18: Add example usage scripts
 Commit number 19: Optimize data ingestion pipeline
 Commit number 20: Add example usage scripts
 Commit number 21: Optimize data ingestion pipeline
+Commit number 22: Improve memory efficiency of model
