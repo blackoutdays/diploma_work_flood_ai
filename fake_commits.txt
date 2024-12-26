@@ -122,3 +122,4 @@ Commit number 6: Add support for new region mapping
 Commit number 7: Add user-friendly UI components
 Commit number 8: Update system requirements file
 Commit number 9: Refactor code for better readability
+Commit number 10: Update notification logic
