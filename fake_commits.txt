@@ -140,3 +140,4 @@ Commit number 24: Improve memory efficiency of model
 Commit number 25: Refactor ML model architecture
 Commit number 26: Refactor ML model architecture
 Commit number 27: Add detailed logs for debugging
+Commit number 28: Add user-friendly UI components
